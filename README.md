@@ -15,9 +15,9 @@ const lehat = 26;
 - lehat
 - fullstackare
 
-|Syntax		|Description	|Test text		|
-|: ---		|:----:		|	---:		|
-|header    	| title       	|	here's this	|
-|paragraph 	| text        	|	and more	|
+|Syntax		|Description	|Test text	|
+|:---		|	:----:	|	---:	|
+|header    	| title       	|here's this	|
+|paragraph 	| text        	|and more	|
 
 
